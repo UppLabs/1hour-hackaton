@@ -1,0 +1,14 @@
+{
+    "results" : [
+        {
+            "key": 1,
+            "label": "Name 1",
+            "value": "Name 1"
+        },
+        {
+            "key": 2,
+            "label": "Name 2",
+            "value": "Name 2"
+        }
+    ]
+}
